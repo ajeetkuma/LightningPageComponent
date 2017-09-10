@@ -1,0 +1,9 @@
+<!--
+ - Created by vivekdeepak on 07/09/2017.
+ -->
+<aura:event type="APPLICATION" description="PGN_PageTotalChange">
+    <!--
+    Event to handle number of records change in Pagination app
+    -->
+    <aura:attribute name="currnetPagesCount" type="String"/>
+</aura:event>
